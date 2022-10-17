@@ -1,0 +1,1 @@
+print("Metin Oğulcan Koca Mükemmeldir")
