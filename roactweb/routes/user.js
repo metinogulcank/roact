@@ -7,7 +7,7 @@ const {
 
 const router = require("express").Router();
 
-//Kullanıcı Güncelleme
+//Kullanıcı Güncellemee
 router.put("/:id", verifyTokenAndAuthorization, async (req, res) => {
   if (req.body.password) {
     req.body.password = CryptoJS.AES.encrypt(
