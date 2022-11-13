@@ -34,6 +34,11 @@
 
 - Müşterilerin daha modern modüller kullanması, daha güvenli ssl sertifikasıyla sitenin güvenliğinin sağlanması, orijanele yakın bir içerik..
 
+## Proje Discord Linki
+
+- https://discord.gg/XWsh2d4E
+
+## 
 
 - React projesi oluşturma 
     # Getting Started with Create React App
