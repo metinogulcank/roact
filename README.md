@@ -34,6 +34,19 @@
 
 - Müşterilerin daha modern modüller kullanması, daha güvenli ssl sertifikasıyla sitenin güvenliğinin sağlanması, orijanele yakın bir içerik..
 
+## E-Ticaret Gereksinimleri (ROACT)
+
+Müşteri Gereksinimleri
+- Müşterinin güvenli bir şekilde alışveriş yapabilceği orjinale yakın bir e-ticaret sitesi 
+- Müşterinin alışveriş yaparken ürün sayfasında o ürünü daha önceden alan müşterilerle birebir iletişime geçeceği bir chat ortamı hazırlamak
+- Müşterinin daha kolay anlaşılablir bir arayüzle alışveriş yapmasını sağlamak
+- Müşterinin istediği ürünü kolayca bulmasını sağlayacak bir filtreleme modülü
+- 
+
+Fonksiyonel Olmayan Gereksinimler 
+- Roact'a kayıt olan ziyaretçiye "Hoşgeldin" şeklinde e-mail göndermek
+- Müşterinin kredi kartını sisteme birdaha kolayca alışveriş yapabilmesi için kadyetmesi. 
+
 ## Proje Discord Linki
 
 - https://discord.gg/XWsh2d4E
