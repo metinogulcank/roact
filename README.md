@@ -36,16 +36,26 @@
 
 ## E-Ticaret Gereksinimleri (ROACT)
 
-Müşteri Gereksinimleri
+Paydaş Gereksinimleri
+- Müşterinin sipariş oluşturması
+- Müşterinin sipariş görüntülemesi
+- Müşterinin ürün görüntülemesi
+- Müşterinin fatura görüntülemesi
 - Müşterinin güvenli bir şekilde alışveriş yapabilceği orjinale yakın bir e-ticaret sitesi 
 - Müşterinin alışveriş yaparken ürün sayfasında o ürünü daha önceden alan müşterilerle birebir iletişime geçeceği bir chat ortamı hazırlamak
 - Müşterinin daha kolay anlaşılablir bir arayüzle alışveriş yapmasını sağlamak
 - Müşterinin istediği ürünü kolayca bulmasını sağlayacak bir filtreleme modülü
-- 
 
-Fonksiyonel Olmayan Gereksinimler 
-- Roact'a kayıt olan ziyaretçiye "Hoşgeldin" şeklinde e-mail göndermek
-- Müşterinin kredi kartını sisteme birdaha kolayca alışveriş yapabilmesi için kadyetmesi. 
+Çözüm Gereksinimleri
+- Roact'a kayıt olan ziyaretçiye "Hoşgeldin" şeklinde e-mail göndermek.
+- Müşteri siparişi verdiği anda siparişin bizim tarafımızdan alındığını belirten bilgilendirici bir e-mail göndermek.
+- Müşterinin kredi kartını sisteme birdaha kolayca alışveriş yapabilmesi için kaydetmesi.
+- Kayıt işlemi sırasında şifre en az 8 karakter olmalı.
+- Kayıtlı kullanıcıların web sitesine e-mail ve şifre ile erişebilmesi.
+
+İş Gereksinimleri
+- Orijinale yakın, güvenlikli ve kolay bir arayüz imkanı ile ROACT ile alışveriş yapabilmelerini sağlamak.
+- Yenilikçi, bilinen e-ticaret sitelerine yakın olmasına karşın içinde barındırdığı mesajlaşma modülü ile diğer e-ticaret sitelerinin önüne geçmeyi hedefliyor.
 
 ## Proje Discord Linki
 
