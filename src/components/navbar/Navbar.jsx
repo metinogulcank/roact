@@ -22,7 +22,7 @@ const Navbar = () => {
           <div className="menu_item">Kayıt Ol</div>
           <div className="menu_item">Giriş Yap</div>
           <div className="menu_item">
-            <Badge badgeContent={4} color="primary">
+            <Badge badgeContent={2} color="primary">
               <ShoppingCartOutlinedIcon />
             </Badge>
           </div>
