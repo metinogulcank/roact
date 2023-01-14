@@ -57,6 +57,12 @@ Paydaş Gereksinimleri
 - Orijinale yakın, güvenlikli ve kolay bir arayüz imkanı ile ROACT ile alışveriş yapabilmelerini sağlamak.
 - Yenilikçi, bilinen e-ticaret sitelerine yakın olmasına karşın içinde barındırdığı mesajlaşma modülü ile diğer e-ticaret sitelerinin önüne geçmeyi hedefliyor.
 
+Satıcı Gereksinimleri
+- Satıcı kendi personellerine özel siteye yetkili şekilde giriş hakkı sağlayabilmesi
+- Satıcının stoktaki ürünleri düzenlemesi ve kontrol etmesi
+- Müşteriye özel kampanya oluşturması
+- Satıcının kendi ürünleri hakkında daha detaylı bilgi verebilmesi için müşterilerle chat ekranı üzerinden konuşabilmesi 
+
 ## Proje Discord Linki
 
 - https://discord.gg/XWsh2d4E
